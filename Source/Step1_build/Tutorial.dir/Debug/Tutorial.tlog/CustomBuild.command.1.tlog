@@ -1,0 +1,10 @@
+^C:\USERS\RYZEN\DESKTOP\GIT_REPOS\CMAKE_TUTORIAL\CMAKE-3.30.0-TUTORIAL-SOURCE\STEP1\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Ryzen/Desktop/Git_repos/CMake_Tutorial/cmake-3.30.0-tutorial-source/Step1 -BC:/Users/Ryzen/Desktop/Git_repos/CMake_Tutorial/cmake-3.30.0-tutorial-source/Step1_build --check-stamp-file C:/Users/Ryzen/Desktop/Git_repos/CMake_Tutorial/cmake-3.30.0-tutorial-source/Step1_build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

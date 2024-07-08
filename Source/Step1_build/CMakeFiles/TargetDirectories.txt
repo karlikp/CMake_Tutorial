@@ -1,0 +1,3 @@
+C:/Users/Ryzen/Desktop/Git_repos/CMake_Tutorial/cmake-3.30.0-tutorial-source/Step1_build/CMakeFiles/Tutorial.dir
+C:/Users/Ryzen/Desktop/Git_repos/CMake_Tutorial/cmake-3.30.0-tutorial-source/Step1_build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Ryzen/Desktop/Git_repos/CMake_Tutorial/cmake-3.30.0-tutorial-source/Step1_build/CMakeFiles/ZERO_CHECK.dir
