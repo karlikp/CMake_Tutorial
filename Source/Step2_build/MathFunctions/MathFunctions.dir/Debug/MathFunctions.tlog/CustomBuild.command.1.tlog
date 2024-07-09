@@ -1,0 +1,10 @@
+^C:\USERS\RYZEN\DESKTOP\GIT_REPOS\CMAKE_TUTORIAL\SOURCE\STEP2\MATHFUNCTIONS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Ryzen/Desktop/Git_repos/CMake_Tutorial/Source/Step2 -BC:/Users/Ryzen/Desktop/Git_repos/CMake_Tutorial/Source/Step2_build --check-stamp-file C:/Users/Ryzen/Desktop/Git_repos/CMake_Tutorial/Source/Step2_build/MathFunctions/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
