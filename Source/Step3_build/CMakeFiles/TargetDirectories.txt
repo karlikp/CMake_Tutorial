@@ -1,0 +1,5 @@
+C:/Users/Ryzen/Desktop/Git_repos/CMake_Tutorial/Source/Step3_build/CMakeFiles/Tutorial.dir
+C:/Users/Ryzen/Desktop/Git_repos/CMake_Tutorial/Source/Step3_build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Ryzen/Desktop/Git_repos/CMake_Tutorial/Source/Step3_build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Ryzen/Desktop/Git_repos/CMake_Tutorial/Source/Step3_build/MathFunctions/CMakeFiles/MathFunctions.dir
+C:/Users/Ryzen/Desktop/Git_repos/CMake_Tutorial/Source/Step3_build/MathFunctions/CMakeFiles/SqrtLibrary.dir
